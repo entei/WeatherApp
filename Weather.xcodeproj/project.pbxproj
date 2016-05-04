@@ -482,6 +482,7 @@
 				6541FCA81CD92E2700F33D26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6541FCA91CD92E2700F33D26 /* Build configuration list for PBXNativeTarget "WeatherTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +491,7 @@
 				6541FCAB1CD92E2700F33D26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6541FCAC1CD92E2700F33D26 /* Build configuration list for PBXNativeTarget "WeatherUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +500,7 @@
 				6541FCAE1CD92E2700F33D26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
